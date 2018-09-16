@@ -54,9 +54,7 @@
         console.log(row);
       }
     },
-    destroyed:function (){
-      // alert('seach destroyed');
-    },
+
     data() {
       return {
         tableData: [{
