@@ -1,0 +1,15 @@
+npm install --save-dev webpack
+npm install --save-dev webpack-cli
+npm install --save-dev webpack-merge
+npm install --save-dev style-loader css-loader
+npm install --save-dev file-loader
+npm install --save-dev html-webpack-plugin
+npm install clean-webpack-plugin --save-dev
+npm install --save-dev webpack-dev-server
+npm install --save-dev vue-template-compiler
+npm install --save-dev babel-core babel-preset-es2015  
+npm install --save-dev babel-loader  
+npm install element-ui -s
+npm i vuex --save
+
+webpack 、vue 、vue-router、element
